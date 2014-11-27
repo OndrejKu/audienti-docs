@@ -1,27 +1,7 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](http://mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-
-
-$project
+Audienti
 ========
 
-$project will solve your problem of where to start with documentation,
+Audienti will solve your problem of where to start with documentation,
 by providing a basic explanation of how to do it easily.
 
 Look how easy it is to use:
@@ -39,15 +19,15 @@ Features
 Installation
 ------------
 
-Install $project by running:
+Install Audienti by running:
 
     install project
 
 Contribute
 ----------
 
-- Issue Tracker: github.com/$project/$project/issues
-- Source Code: github.com/$project/$project
+- Issue Tracker: github.com/Audienti/Audienti/issues
+- Source Code: github.com/Audienti/Audienti
 
 Support
 -------
