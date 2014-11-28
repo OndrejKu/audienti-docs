@@ -2,5 +2,14 @@ site_name: Audienti Docs
 pages:
 - [index.md, Home]
 - [gettingstarted.md, Getting Started]
+- [faq.md, Frequently Asked Question]
+- [installation.md, Installation]
+- [dashboard.md, Dashboard]
+- [domains.md, Domains]
+- [keywords.md, Keywords]
+- [content.md, Content]
+- [mentions.md, Mentions]
+- [outreach.md, Outreach]
+- [settings.md, Settings]
 - [about.md, About]
 theme: readthedocs
