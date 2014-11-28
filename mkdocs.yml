@@ -1,1 +1,6 @@
 site_name: Audienti Docs
+pages:
+- [index.md, Home]
+- [gettingstarted.md, Getting Started]
+- [about.md, About]
+theme: readthedocs
